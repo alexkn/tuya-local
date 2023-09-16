@@ -21,7 +21,7 @@
 - Kogan flame effect heater - KAWHMFP20BA model
 - Kogan tower heater - KASTHFP2KWA model
 - Kogan Wi-Fi convection panel heaters - KAHTP and KAWFHTP models
-- MRC Magnum floor heating 
+- MRC Magnum floor heating
 - Nedis convection heater - WIFIHTPL20F model
 - Orion OWH-PTC2000 heater
 - Princess 350 panel heater
@@ -55,6 +55,7 @@
 - Star-Light air conditioner (also confirmed to work with Polar branded devices)
 - Tadiran Wind 65/3P
 - TroniTechnik Hellnar Klimagerät
+- Trotec PAC-W 2600 SH
 - Vivax Cool ACP-12CH35REWI
 - Woods Cortina portable air conditioner
 - Woods Milan portable air conditioner
@@ -386,7 +387,8 @@ of device.
 - Dongguan garage door
 - Dooya curtain motor
 - Etersky curtain switch with backlight and timing control
-- FS-03W curtain switch with backlight control
+- FS-03W curtain switch with backlight control
+
 - Kogan garage door with tilt sensor
 - Loonas smart curtain
 - LoraTap GDC100W garage door opener
@@ -485,7 +487,7 @@ port and password.
 - SD123 HPR01 human presence radar
 - SH07-8 smart sprinkler controller
 - TH08 temperature and humidity sensor
-- TH16 temperature and humidity sensor 
+- TH16 temperature and humidity sensor
 - Tontine electric blanket
 - Universal remote control (supports sensors only)
 - Xiumii human presence radar
